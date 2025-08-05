@@ -40,7 +40,8 @@ button {
 }
 
 .container {
-    width: 1740px;
+    width: 100%;
+    max-width: 1740px;
     padding: 0 10px;
     margin: 0 auto;
 }
